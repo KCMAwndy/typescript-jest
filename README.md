@@ -14,7 +14,7 @@ merge(collection_1: number[], collection_2: number[], collection_3: number[]): n
 
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/typescript-jest.git
+git clone https://github.com/KCMAwndy/typescript-jest.git
 ```
 
 Navigate to the project directory:
